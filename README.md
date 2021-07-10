@@ -10,6 +10,8 @@ List of tech companies to help security professionals to find jobs.
 
 <b>Alphabetical Order:</b>
 
+[Aspire Tech Services and Solutions Limited](http://www.aspiretss.com/)
+
 [Beetles Cyber Security](https://beetles.io/)
 
 [BugsBD](https://www.bugsbd.com/)
@@ -27,8 +29,6 @@ List of tech companies to help security professionals to find jobs.
 [PentesterSpace](https://pentesterspace.com/)
 
 [Power Display Technologies](https://www.pdtbd.com/)
-
-[Secure Line Security Services](http://security.com.bd/)
 
 [SECUPENT](http://www.secupent.com/)
 
