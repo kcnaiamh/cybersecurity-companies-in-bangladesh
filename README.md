@@ -22,6 +22,10 @@ List of tech companies to help security professionals to find jobs.
 
 [Cybersec Technology BD](http://www.cstbl.com/)
 
+[Desh Cyber](https://deshcyber.com/#)
+
+[Dhaka Distributions](https://dhakadistributions.com/)
+
 [Hoplon Limited](https://www.hoplonbd.com/)
 
 [Mesh Technologies](http://www.meshtechnologies.net/)
@@ -35,6 +39,8 @@ List of tech companies to help security professionals to find jobs.
 [Securitymindpro](https://securitymindpro.com/)
 
 [Techforing](https://www.techforing.com/)
+
+[Technometrics](https://technometrics.net/cyber-security/)
 
 [Trustaira](https://trustaira.com/)
 
