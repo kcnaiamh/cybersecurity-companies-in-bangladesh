@@ -16,6 +16,8 @@ List of tech companies to help security professionals to find jobs.
 
 [BugsBD](https://www.bugsbd.com/)
 
+[Byte Capsule LTD](https://bytecapsuleltd.wixsite.com/bytecapsule)
+
 [Cyber Solutions](http://www.cybersolutions.io/)
 
 [Cyber Technology Bangladesh](http://www.cybertechnologybd.com/)
