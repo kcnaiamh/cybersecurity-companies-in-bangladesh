@@ -14,6 +14,8 @@ List of tech companies to help security professionals to find jobs.
 
 [Beetles Cyber Security](https://beetles.io/)
 
+[Bitlab Technology Solutions Ltd](https://bitlabtechnology.solutions/)
+
 [BugsBD](https://www.bugsbd.com/)
 
 [Byte Capsule LTD](https://bytecapsuleltd.wixsite.com/bytecapsule)
