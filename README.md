@@ -38,6 +38,8 @@ List of tech companies to help security professionals to find jobs.
 
 [Power Display Technologies](https://www.pdtbd.com/)
 
+[REVE Group](https://www.revegroup.com/career/)
+
 [SECUPENT](http://www.secupent.com/)
 
 [Securitymindpro](https://securitymindpro.com/)
