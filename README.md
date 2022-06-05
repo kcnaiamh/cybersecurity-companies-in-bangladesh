@@ -28,6 +28,8 @@ List of tech companies to help security professionals to find jobs.
 
 [Desh Cyber](https://deshcyber.com/#)
 
+[Decodes Lab Ltd.](https://decodeslab.com)
+
 [Dhaka Distributions](https://dhakadistributions.com/)
 
 [Hoplon Limited](https://www.hoplonbd.com/)
