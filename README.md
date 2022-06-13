@@ -32,6 +32,8 @@ List of tech companies to help security professionals to find jobs.
 
 [Dhaka Distributions](https://dhakadistributions.com/)
 
+[EIC](https://eic.com.bd/)
+
 [Hoplon Limited](https://www.hoplonbd.com/)
 
 [Mesh Technologies](http://www.meshtechnologies.net/)
