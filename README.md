@@ -36,6 +36,8 @@ List of tech companies to help security professionals to find jobs.
 
 - [Hoplon Limited](https://www.hoplonbd.com/)
 
+- [MeghOps](https://meghops.io/)
+
 - [Mesh Technologies](http://www.meshtechnologies.net/)
 
 - [PentesterSpace](https://pentesterspace.com/)
