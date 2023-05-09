@@ -26,6 +26,8 @@ List of tech companies to help security professionals to find jobs.
 
 - [Cybersec Technology BD](http://www.cstbl.com/)
 
+- [Desh Cloud](https://deshcloud.com/)
+
 - [Desh Cyber](https://deshcyber.com/#)
 
 - [Decodes Lab Ltd.](https://decodeslab.com)
